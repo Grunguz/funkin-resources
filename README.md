@@ -193,7 +193,7 @@ Unsure what to contribute? Check out the `good first issue` [tagged GitHub issue
 ## Art
 
 - [FNF Logo SVG recreation](https://commons.wikimedia.org/wiki/File:FNF-Logo.svg) - Vector recreation of the FNF logo, so you can edit the shapes better and recolor it without a crappy fill bucket.
-
+- [ThugWizard's PA Artstyle Tutorials](https://www.youtube.com/watch?v=ZHF5MNfZqwk) - Part 1 Explanations and Basics. (https://www.youtube.com/watch?v=Unat1IzRngY) Part 2 Heads and Stylization.
 ## Charting
 
 - [ArrowVortex](https://arrowvortex.ddrnl.com/) - Create or edit stepfiles for various rhythm games, such as [DDR (Dance Dance Revolution)](https://www.ddrgame.com/), [ITG (In The Groove)](<https://en.wikipedia.org/wiki/In_the_Groove_(video_game)>), [PIU (Pump It Up)](https://www.piugame.com/piu.xx/), [StepMania](https://www.stepmania.com/) and [osu!](https://osu.ppy.sh/home)
